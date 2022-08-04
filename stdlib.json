@@ -1,0 +1,6 @@
+{
+  "name": "jemnya/image-to-text",
+  "timeout v": 10000,
+  "connector": false,
+  "events": {}
+}
